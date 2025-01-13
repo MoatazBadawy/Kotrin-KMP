@@ -64,5 +64,5 @@ fun KotrinToolbar(
 }
 
 object Constants {
-    const val GITHUB_URL = "https://github.com/MoatazBadawy/Mawaqeet-Todo_and_Habits"
+    const val GITHUB_URL = "https://github.com/MoatazBadawy/Kotrin-KMP"
 }
