@@ -27,6 +27,9 @@ This is a Kotlin Multiplatform project targeting Android, IOS. It includes share
 * `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
 
+## Project Architecture
+![MVVM3](https://user-images.githubusercontent.com/1812129/68319232-446cf900-00be-11ea-92cf-cad817b2af2c.png)
+
 ## Technologies
 
 The app uses the following multiplatform dependencies in its implementation:
