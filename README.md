@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">  
-This is a Kotlin Multiplatform project targeting Android, IOS. It includes shared business logic and data handling, and a shared UI implementation using Compose Multiplatform.
+Kotrin is a simple wallpaper app built with Kotlin Multiplatform to targeting IOS and Android. We used Ktor, Koin, ViewModel, and Room database. It includes shared business logic, and a shared UI implementation using Compose Multiplatform.
 </p>
 </br>
 
